@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="day_background">#ffffff</color>
+    <color name="edit_text_bg">#aaaaaa</color>
+    <color name="label_color">#000000</color>
+    <color name="night_background">#00183e</color>
+    <color name="semitransparent">#55000000</color>
+    <color name="white">#ffffff</color>
+    <string name="app_name">House</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

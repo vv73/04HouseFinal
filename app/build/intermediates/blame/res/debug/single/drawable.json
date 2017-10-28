@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\window.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\window.png"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brick.xml",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\brick.xml"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\door.png"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roof.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\roof.png"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tree.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\tree.png"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wood_wall.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\wood_wall.png"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grass_texture.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\grass_texture.png"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brick_texture.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\brick_texture.png"
+    },
+    {
+        "merged": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roof_window.png",
+        "source": "C:\\Users\\vladimir.iljin\\StudioProjects\\04 House Final\\app\\src\\main\\res\\drawable\\roof_window.png"
+    }
+]
